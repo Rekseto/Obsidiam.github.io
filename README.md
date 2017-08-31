@@ -3,7 +3,7 @@
 ## Who am I?
 
 Hi! I'm Obsidiam, I'm polish Java&C# developer. 
-Actually I'm a desktop developer, but I get well on with mobile and web technologies.
+Actually I'm a desktop developer, but I'm going to get well on with mobile and web technologies.
 My target is to be a good developer working in enterprise development. 
 I am a freelancer too and a student of technical college at ICT.
 
