@@ -23,9 +23,9 @@ The technologies I actually know:
 ##  My Bests
 
 I have some good pojects:
-* ![prcrec](https://www.github.com/Obsidiam/prcrec)
-* ![amelia](https://www.github.com/Obsidiam/amelia)
-* ![joanne](https://www.github.com/Obsidiam/joanne)
+* [prcrec](https://www.github.com/Obsidiam/prcrec)
+* [amelia](https://www.github.com/Obsidiam/amelia)
+* [joanne](https://www.github.com/Obsidiam/joanne)
 
 ## Who I work with?
 Actually I work with ![Rekseto](https://www.github.com/Rekseto). We work on TODO management system, he works on the server side and the webstie and I work on the Android cient. 
