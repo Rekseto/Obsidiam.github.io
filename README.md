@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+### Welcome!
 
-You can use the [editor on GitHub](https://github.com/Obsidiam/Obsidiam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Who am I?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm Obsidiam, I'm polish Java&C# developer. 
+Actually I'm a desktop developer, but I get well on with mobile and web technologies.
+My target is to be a good developer working in enterprise development. 
+I am a freelancer too and a student of technical college at ICT.
 
-### Markdown
+# What I actually know?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The technologies I actually know:
+* Java Swing, Java FX,
+* C#(WinFoms, WPF),
+* Gluon,
+* basis of ASP.NET and Android,
+* Maven,
+* Gradle,
+* MySQL, SQLite, Java Derby(all using JDBC),
+* RESTful pattern,
+* some design patterns and MVC and MVP from architectonical patterns.
 
-```markdown
-Syntax highlighted code block
+#  My Bests
 
-# Header 1
-## Header 2
-### Header 3
+I have some good pojects:
+* ![prcrec](https://www.github.com/Obsidiam/prcrec)
+* ![amelia](https://www.github.com/Obsidiam/amelia)
+* ![joanne](https://www.github.com/Obsidiam/joanne)
 
-- Bulleted
-- List
+# Who I work with?
+Actually I work with ![Rekseto](https://www.github.com/Rekseto). We work on TODO management system, he works on the server side and the webstie and I work on the Android cient. 
 
-1. Numbered
-2. List
+# Support or Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Obsidiam/Obsidiam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to contact me please write me a mail using following e-mail address: __lukasbownik99@gmail.com__ 
+You can always contact me just writing an Issue at the repo of this website. 
