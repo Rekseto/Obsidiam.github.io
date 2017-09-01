@@ -28,7 +28,7 @@ I have some good pojects:
 * [joanne](https://www.github.com/Obsidiam/joanne)
 
 ## Who I work with?
-Actually I work with ![Rekseto](https://www.github.com/Rekseto). We work on TODO management system, he works on the server side and the webstie and I work on the Android cient. 
+Actually I work with [Rekseto](https://www.github.com/Rekseto). We work on TODO management system, he works on the server side and the webstie and I work on the Android cient. 
 
 ## Support or Contact
 
